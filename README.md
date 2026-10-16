@@ -64,6 +64,13 @@
 - [16. Recommended starting points](#16-recommended-starting-points)
 - [Final synthesis: where understanding stands](#final-synthesis-where-understanding-stands)
 - [Source and update note](#source-and-update-note)
+- [Self-test: 30 questions to check your understanding](#self-test-30-questions-to-check-your-understanding)
+  - [Part A: Foundations and how the brain works](#part-a-foundations-and-how-the-brain-works)
+  - [Part B: Consciousness and its theories](#part-b-consciousness-and-its-theories)
+  - [Part C: Measurement, conditions, and ethics](#part-c-measurement-conditions-and-ethics)
+  - [Part D: Treatments, brain health, and trade-offs](#part-d-treatments-brain-health-and-trade-offs)
+  - [Part E: Research and emerging technologies](#part-e-research-and-emerging-technologies)
+  - [Part F: Exercises and everyday tasks](#part-f-exercises-and-everyday-tasks)
 
 ## Executive summary
 
@@ -629,3 +636,154 @@ The most accurate overall picture is **substantial progress without final unders
 ## Source and update note
 
 This is a synthesis of the sources linked throughout the document, with emphasis on official NIH/NINDS/NIMH/NIA and BRAIN Initiative resources and a peer-reviewed *Nature* study. The research table is selective, not exhaustive. Program pages and treatment guidance should be checked for updates before making clinical or research decisions. Last updated **October 13, 2026**.
+
+---
+
+## Self-test: 30 questions to check your understanding
+
+These questions are designed so that you cannot answer them by skimming a single table. Most ask you to explain, compare, apply, or connect ideas across sections. Try each one from memory first, then go back through the document to check and refine your answer, and only then open the answer key at the end.
+
+**How to get the most from this set**
+- **Write short answers** (two to five sentences) before checking. Retrieval from memory is more effective than rereading.
+- **Notice the question type:** *Explain* asks for reasoning, *Compare* asks for similarities and differences, *Apply* asks you to use the ideas on a new case, and *Synthesize* asks you to combine several sections.
+- **Score yourself honestly** using the key: full credit if you captured the main idea and the document's caveat, half credit if you captured only one. Revisit any question where you scored below half.
+- **Section numbers** are deliberately left out of the questions. Finding the right part of the document is part of the learning.
+
+### Part A: Foundations and how the brain works
+
+1. **(Explain)** Section 5 says that categories of brain conditions overlap and that "a diagnosis does not imply one uniform mechanism." Using at least three categories from that section, explain what this means. Then describe how brain disorders can affect consciousness in different ways.
+
+2. **(Explain and connect)** The document cautions against calling dopamine "the pleasure chemical." What roles does it assign to dopamine and other neuromodulators instead, and how does the 25-task section illustrate the difference between "wanting" and "liking"?
+
+3. **(Explain)** Plasticity is described as supporting recovery and learning, yet it also appears in the document as a risk. Give at least three examples of how plasticity can be helpful and at least three of how it can be harmful or limiting. Where does the "brain enhancement" discussion return to this idea?
+
+4. **(Apply)** The document describes a six-level, multilevel view of the brain. Name the six levels, then choose one task from the 25-task section and trace it across at least three of those levels.
+
+5. **(Compare)** What does it mean to say that perception is "inference, not a camera feed"? How does the document distinguish that claim from the stronger claim that predictive processing explains all brain function, and what alternative or complementary accounts does it name?
+
+6. **(Explain)** The document says a percept is not necessarily conscious just because sensory information has been processed. What kinds of additional operations do researchers debate as being required for conscious access?
+
+7. **(Explain and connect)** Memory is described as "reconstructive." Explain what that means, then identify at least three different places in the document where that fact changes how a claim or a piece of evidence should be interpreted.
+
+### Part B: Consciousness and its theories
+
+8. **(Apply)** The document distinguishes wakefulness, awareness, conscious content, access consciousness, self-consciousness, and phenomenal consciousness. Describe a clinical scenario in which wakefulness and awareness come apart, and a scenario in which experience may exist without the ability to report it. What does the document say about how confident clinicians can be in such cases?
+
+9. **(Compare)** Distinguish access consciousness from phenomenal consciousness. Which of the two does Global Neuronal Workspace Theory mainly address, and why does that matter for how we interpret its supporting evidence?
+
+10. **(Compare)** Summarize the core proposals of GNWT and IIT. For each theory, name the specific prediction that the recent adversarial test challenged.
+
+11. **(Explain)** The document says the recent GNWT-versus-IIT study is "a meaningful advance, not proof that consciousness has been solved or that either theory is entirely false." Give three reasons it supports that cautious reading. Describe the study's scale and methods, and what its authors recommended.
+
+12. **(Compare)** The document notes that the theories of consciousness are "not all at the same level." Sort the theories in the table into those that make detailed neural predictions and those that are broader philosophical or cognitive frameworks. What is the practical consequence of this difference for testing them?
+
+13. **(Explain)** Why is finding the neural correlates of an experience not automatically a complete explanation of it? Give two other places in the document that return to this same warning.
+
+### Part C: Measurement, conditions, and ethics
+
+14. **(Explain)** Why does the document say that no scan is a "consciousness meter"? What do researchers combine instead, and how does the document describe the limits of neural decoding?
+
+15. **(Apply)** You need to (a) track the timing of brain responses to speech in a healthy volunteer, noninvasively and at low cost, and (b) test whether a particular region is causally necessary for a behavior. Which method or methods in the document fit each goal best? State one limitation for each choice, and explain why fMRI is a poor fit for goal (a).
+
+16. **(Synthesize)** Drawing on the sections about neural data, brain-computer interfaces, and ethics, explain why "mental privacy" matters even though current systems cannot freely read arbitrary thoughts. What principles does the document propose for autonomy and for disabled people's involvement in neurotechnology?
+
+### Part D: Treatments, brain health, and trade-offs
+
+17. **(Compare)** Compare the document's descriptions of Alzheimer's symptomatic medicines and the anti-amyloid therapies: what benefit is claimed for each, and what burdens or risks apply? Which "biggest open question" do these treatments most directly illustrate?
+
+18. **(Compare)** Compare ECT, rTMS, and DBS in terms of invasiveness, typical uses, and main trade-offs. Which of the three does the document describe as "not a general-purpose enhancer," and why?
+
+19. **(Apply)** A company advertises a supplement that "boosts memory" based on improved scores on one memory test. Using the document's trade-offs, the treatments table, and its checklist for evaluating future claims, list at least five questions you would want answered before trusting the claim.
+
+20. **(Explain)** The document says brain-health habits are "risk-reduction and health-support measures, not guarantees." Which habits does it list, what does it say about brain-training apps and supplements, and how does the later discussion of what "brain exercise" cannot promise reinforce this?
+
+### Part E: Research and emerging technologies
+
+21. **(Explain)** Why does the research table caution against naming a single "main scientist" for a program, and what stages of evidence does the document ask readers to distinguish? Which listed program is designed to compare consciousness theories directly, and what design features distinguish it?
+
+22. **(Compare)** Contrast what a cell atlas and a connectome each provide. Why does the document say a wiring diagram alone is not enough to understand function?
+
+23. **(Explain)** Why is success with optogenetics in animals not enough to apply it in humans, and why does the document say the ability to perturb a circuit is valuable for consciousness research despite the ethical limits on human experiments?
+
+24. **(Explain)** The document warns that a model's success at predicting data "does not prove" the brain uses the same algorithm. What should a useful model do instead? What is the current status of personalized "digital twins" of the brain?
+
+### Part F: Exercises and everyday tasks
+
+25. **(Apply)** Suppose your score on a practiced memory task rises over four weeks. Why does the document say you cannot conclude that a specific brain region has changed? List the alternative explanations it gives, and describe how to design a stronger personal experiment.
+
+26. **(Apply)** The document labels activities as "well supported," "promising / task-specific," or "exploratory." Classify the following using the document's own ratings: spaced retrieval practice, single-task focus intervals, an expectation-versus-observation log, and cognitive reappraisal. Then explain what "well supported" does and does not promise.
+
+27. **(Synthesize)** Using the structure table, the exercise sections, and the 25-task section, describe the roles the document assigns to the cerebellum and the basal ganglia in skilled movement and learning. Why does it warn that a movement drill is not a proven way to improve every cognitive function linked to the cerebellum?
+
+28. **(Synthesize)** Combine what the document says about sleep in the sections on how the brain works, exercises and habits, and everyday tasks. What does it claim about sleep's role in learning, about dreaming, and about how sleep differs from anesthesia?
+
+29. **(Synthesize)** Using the discussions of the amygdala, the startle task, and graded exposure, explain why the document says the amygdala is "not simply a 'fear center,'" and what that implies about how fear, arousal, and learned responses may change during exposure-based therapy. Why does it advise clinician support for severe anxiety or trauma?
+
+30. **(Synthesize)** A headline reads: "Brain scan reveals where consciousness lives." Write a critique of at least six points using the document's discussions of consciousness, measurement tools, misconceptions, and claim evaluation. Name at least two of the "biggest open questions" that the headline overlooks.
+
+<details>
+<summary><strong>Answer key (open after attempting the questions)</strong></summary>
+
+The answers below are summaries of what the document says. Your wording will differ; look for the main ideas and caveats. Section numbers show where to review.
+
+**1. (Sections 5, 3)** Conditions can arise from genetic, developmental, vascular, infectious, traumatic, degenerative, immune, metabolic, psychiatric, and environmental causes, and the categories overlap. For example, psychiatric conditions involve interactions among circuits, learning, body systems, environment, and lived experience and are not reducible to a single chemical imbalance; neurodevelopmental conditions show substantial individual variation and multiple pathways; infectious, inflammatory, or metabolic conditions can disrupt neural function rapidly and may be treatable if the cause is identified. Disorders can affect the content, level, continuity, and reportability of experience differently, so outward behavior is an imperfect window into a person's inner state.
+
+**2. (Sections 1, 13, 11)** Neuromodulators such as dopamine, serotonin, acetylcholine, and norepinephrine change learning, motivation, arousal, and how circuits respond. Dopamine specifically participates in learning, motivation, movement, and prediction-related processes. In the everyday-task section, reward circuits and dopamine are tied more to anticipation and motivation ("wanting"), while opioid and endocannabinoid signaling contributes to the pleasure itself ("liking"), and the learning-from-a-mistake task describes dopamine signaling prediction errors.
+
+**3. (Sections 1, 6, 11)** Helpful: supports learning, recovery after injury, and skill acquisition (and in the everyday tasks, consolidation of practiced skills). Harmful or limiting: can reinforce maladaptive habits, chronic pain, addiction, and post-traumatic responses. The "brain enhancement" trade-offs list "plasticity versus stability," noting that the ability to change supports learning but also makes harmful learning possible. The exercise sections also note that repetition can strengthen helpful and unhelpful habits alike.
+
+**4. (Sections 2, 11)** The levels are: (1) molecules and genes, (2) cells, (3) synapses and local circuits, (4) large-scale networks, (5) cognition and behavior, and (6) body and environment. A sample trace for practicing a new piece of music: synaptic strength changes with repetition (synapses), the cerebellum and basal ganglia refine timing and sequencing (networks), the performance improves (behavior), and sleep after practice supports consolidation (body). Other well-reasoned traces are acceptable.
+
+**5. (Section 2)** Perception combines sensory signals with context, attention, prior learning, and expectation to build useful interpretations, which usually works well but also produces illusions. Predictive processing proposes continual prediction and updating through prediction errors; it is influential, but the claim that one predictive principle explains all brain function is not settled. Competing or complementary accounts include feedforward feature processing, recurrent processing, attention, active sensing, and task-specific learning.
+
+**6. (Sections 2, 3)** Some processing occurs without reportable awareness. Researchers debate whether recurrent interactions, global availability, higher-order representation, or other features are required for conscious access.
+
+**7. (Sections 2, 3, 10, 11)** Retrieval can alter how an experience is later remembered, so memory is rebuilt rather than replayed. Examples: (a) the present moment can be conscious without being accurately remembered, and memory reports can be distorted, which complicates inferring past conscious experience from testimony; (b) reports after emergence from anesthesia are imperfect evidence about what occurred; (c) in spaced retrieval, recall is reconstructive, so confidence does not guarantee accuracy; (d) in recalling what you did yesterday, vividness or confidence does not guarantee accuracy.
+
+**8. (Sections 3, 14)** Wakefulness without awareness: a patient may be awake but have severely impaired awareness (for example, in unresponsive wakefulness syndrome). Experience without report: a person may have experience without being able to communicate it, and some patients who cannot follow commands may show brain responses consistent with covert command-following on specialized tests. The document says no one method is infallible, and the absence of an outward response is not definitive proof of absence of experience.
+
+**9. (Section 3)** Access consciousness concerns whether information is available for flexible reasoning, decision-making, and report; phenomenal consciousness concerns what an experience feels like from the inside. GNWT mainly addresses conscious access (broad availability, report, flexible use of information). This matters because evidence based on report and task performance may not separate access from phenomenal experience, and the document notes that report and task demands can confound results.
+
+**10. (Section 3)** GNWT: information becomes conscious when it is amplified and broadly available to multiple systems ("global broadcasting" or "ignition"); the study challenged strong predictions about late ignition and prefrontal representation. IIT: consciousness corresponds to a system's intrinsic cause-effect structure and integrated information, with some versions predicting a posterior cortical "hot zone"; the expected sustained posterior synchronization was not found.
+
+**11. (Section 3)** The study supported some predictions of each theory and challenged key claims of both; it tested specific predictions in particular tasks and modalities; advocates may revise biological implementations; and other theories remain in play. It involved 256 participants across fMRI, magnetoencephalography, and intracranial EEG. The authors argued for more rigorous, quantitative, theory-driven tests rather than declaring a winner.
+
+**12. (Section 3)** Detailed neural predictions: GNWT (ignition, broad availability), IIT (posterior "hot zone"), and recurrent processing theory (local recurrence in sensory cortex). Broader frameworks: predictive-processing accounts (a broad framework rather than one uniquely specified theory), enactive/embodied approaches (broad philosophical frameworks without decisive unique neural predictions), biological naturalism (more a philosophical position), and dualist views (hard to derive distinctive testable predictions). Higher-order and attention schema theories sit in between. The consequence is that the theories cannot be tested against each other equally easily: the more specific the neural predictions, the more directly they can be falsified.
+
+**13. (Sections 3, 14, 15)** Finding what reliably accompanies an experience does not by itself explain why that activity has a subjective quality (the explanatory gap). The same warning appears in the open questions (the explanatory gap and "what counts as explanation"), in the measurement discussion (decoding is not mind reading), and in the evaluation checklist, which asks whether a claim overreaches from "associated with consciousness" to "explains consciousness."
+
+**14. (Section 4)** Researchers combine behavior, physiology, reports, perturbation, and longitudinal observations. Neural decoding can infer some information under constrained conditions, but it should not be confused with unrestricted mind reading; the misconceptions section adds that decoding is limited, task-dependent, probabilistic, and often requires extensive training and cooperation.
+
+**15. (Section 4)** (a) EEG, which offers millisecond timing and is relatively affordable; its limitation is that source localization is difficult and signals mix activity from many sources. MEG also offers fast timing but is expensive and technically demanding. fMRI is a poor fit because it measures blood-oxygenation changes that are slow relative to neural firing. (b) Lesion studies can help establish causal necessity, but lesions are rarely neat and reorganization complicates interpretation; TMS or electrical stimulation can test causal contributions, but effects vary by site, dose, state, and individual, and stimulation is not a simple on/off switch.
+
+**16. (Sections 6, 8, 12)** Brain signals can reveal or permit inference about sensitive traits in specific contexts, which raises questions about consent, data ownership, security, secondary use, and whether neural data deserve special protections, even though current systems cannot freely read arbitrary thoughts. For autonomy, the document calls for informed consent, transparent discussion of uncertainty, respect for patient goals, and monitoring for unwanted effects. BCIs should be developed with disabled people rather than merely for them, and a person's worth is not measured by cognitive performance, speech, movement, or technological normalization. The BCI discussion also notes that decoding intent is not the same as reading private thoughts, and lists limitations such as signal drift, training burden, surgical risk, data security, maintenance, and unequal access.
+
+**17. (Sections 6, 14)** Symptomatic medicines can temporarily help or stabilize selected cognitive and behavioral symptoms; effects are limited and variable, with possible gastrointestinal, cardiovascular, or other adverse effects, and they do not cure the disease. Anti-amyloid therapies (lecanemab, donanemab) show a modest slowing of decline on average in eligible people with early Alzheimer's, not a cure or reversal; risks and burdens include brain swelling or bleeding (ARIA), monitoring MRIs, cost and access barriers, and careful eligibility assessment. They illustrate the open question about neurodegeneration: how to prevent or halt disease rather than only modestly slow symptoms or progression.
+
+**18. (Section 6)** ECT: requires anesthesia and induces a controlled seizure; can be highly effective for severe depression, but confusion and memory side effects (including autobiographical memory problems in some patients) can occur. rTMS: noninvasive; used for selected conditions, especially treatment-resistant depression; trade-offs are repeated sessions, headache or scalp discomfort, rare seizure risk, and variable response. DBS: involves brain surgery; established for selected movement disorders; risks include infection and bleeding, programming burden, and variable effects on mood and cognition. The document describes DBS as "not a general-purpose enhancer."
+
+**19. (Sections 6, 15)** Sample questions: Was it tested in humans in a randomized, adequately powered, replicated trial with an appropriate control? Does improvement on one test transfer to everyday memory (specificity versus generality, measurement versus lived experience)? How large and how durable is the effect, and who was studied (average versus individual response)? What adverse effects, interactions, dose uncertainty, or contamination exist (the supplements row)? Are long-term effects known (short-term benefit versus long-term uncertainty)? Does the claim distinguish correlation from causation, and are the authors clear about limitations? What are the costs and access barriers?
+
+**20. (Sections 9, 10)** Habits listed: adequate sleep, regular physical activity, treating vascular risk factors, avoiding smoking and harmful substance use, appropriate head protection, social and cognitive engagement, and seeking care for persistent mood, sleep, memory, or neurological symptoms. Brain-training apps may improve practiced tasks, but broad transfer is much less certain, and supplements often have weaker evidence than advertising suggests. The later discussion adds that no everyday activity is known to selectively strengthen one region, practiced-task gains do not imply a broad increase in intelligence, memory, attention, or creativity, and success should be judged by sustained function and well-being.
+
+**21. (Sections 3, 7)** Large programs often fund dozens or hundreds of investigators, so a single "main scientist" can misrepresent collaborative work. The document asks readers to distinguish an announced project, a preclinical result, an early clinical trial, and an approved treatment, and to treat "potential benefit" as a research goal rather than a demonstrated outcome. The Cogitate Consortium is designed to compare consciousness theories directly; its distinguishing features are a preregistered, adversarial comparison of predictions from GNWT and IIT using multiple methods (fMRI, MEG, and intracranial EEG).
+
+**22. (Sections 7, 8)** A cell atlas identifies what cell types exist, where they are located, and how they behave (for example, reference atlases across species and lifespan), while a connectome maps anatomical connections between cells or regions. A map is foundational but incomplete: the same wiring can behave differently depending on activity, neuromodulation, learning, and body state, and a wiring diagram does not alone reveal what signals mean or when connections are used.
+
+**23. (Section 8)** Optogenetics and other cell-targeted techniques are powerful in animal research, but translating them safely and effectively to humans is a separate challenge. Perturbing a circuit and observing a change in perception or responsiveness can provide stronger causal evidence than observation alone, though ethical constraints limit which experiments can be done in humans.
+
+**24. (Section 8)** A useful model should make risky, testable predictions and be compared against simpler alternatives. Personalized digital twins are an aspiration that may eventually aid surgical planning or treatment selection; at present, a complete personal brain simulation that reproduces a person's memories, personality, or consciousness is not an established clinical capability.
+
+**25. (Section 10)** Improvement can reflect familiarity, strategy, motivation, measurement noise, or several interacting mechanisms; the tracking template also lists practice, sleep, stress, and chance. A stronger experiment defines one outcome in advance, uses the same measure over time, avoids changing many things at once, and treats the result as an observation rather than a diagnosis.
+
+**26. (Section 10)** Spaced retrieval practice: well supported. Single-task focus intervals: promising / task-specific. Expectation-versus-observation log: exploratory. Cognitive reappraisal: moderate, context-dependent evidence. "Well supported" means the activity is broadly supported for the stated outcome, although the effect size varies; it does not mean the benefit transfers to unrelated skills or that a particular brain region has been selectively trained.
+
+**27. (Sections 1, 10, 11)** The cerebellum contributes to coordination, timing, motor learning, prediction, and some cognitive processes; in the everyday tasks it predicts and corrects timing (catching a ball) and refines sequencing (practicing music). The basal ganglia contribute to action selection, movement, habit learning, and reward-related learning, and support automatic sequences (typing) and habitual route responses. The warning is that the cerebellum contributes to more than movement, but a movement drill is not a proven way to improve every cognitive function associated with it; also, repetition can strengthen unhelpful habits as well as helpful skills.
+
+**28. (Sections 2, 10, 11)** Sleep is an active biological state that supports health, learning, emotional regulation, and metabolic functions, and contributes to memory processing, though mechanisms and benefits differ across memory types. The habits section recommends reviewing material after sleep rather than cramming, and the everyday tasks link sleep after practice with consolidation and describe hippocampal-cortical interactions during sleep. Dreams are common in some sleep states but vivid experience can occur in others too (and the task section notes dreams occur outside REM). Anesthesia is a drug-induced change in brain dynamics acting on multiple targets, with different anesthetics working through partly different mechanisms; loss of responsiveness is not always identical to absence of experience.
+
+**29. (Sections 1, 10, 11)** The amygdala is involved in learning about biologically significant events, threat, reward, and emotional relevance, so it is not simply a fear center. In the startle example, a fast brainstem reflex and parallel amygdala-linked circuits drive bodily arousal, while slower cortical and hippocampal processing evaluates context; a bodily alarm response is not identical to the felt experience of fear. In graded exposure, conscious fear, physiological arousal, and learned responses may change at different rates, and the activity does not erase the reality of a person's feelings. Severe anxiety, PTSD, panic, or trauma-related symptoms call for a qualified clinician rather than forcing exposure alone.
+
+**30. (Sections 3, 4, 13, 15, 14)** Strong answers include several of: no scan is a "consciousness meter"; neural correlates are not a complete explanation; imaging has limitations (fMRI is indirect and slow; correlation is not causation); a brain region does not have only one function and consciousness depends on distributed systems and network interactions; decoding is not mind reading; "associated with" should not be inflated to "explains"; ask about study type, preregistration, power, replication, and controls; ask whether a scan change is meaningful to people; and the best head-to-head test of two major theories produced no decisive winner. Open questions overlooked include the explanatory gap, the neural basis of conscious content, consciousness without report, and "what counts as explanation."
+
+</details>

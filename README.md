@@ -4,6 +4,67 @@
 
 > **Purpose and limits.** This document synthesizes mainstream neuroscience, major competing explanations, clinical interventions, and selected ongoing research. It is educational, not personal medical advice. Brain science changes quickly; clinical decisions should be made with qualified clinicians using current guidance. "Consciousness" is included throughout because it intersects with perception, memory, attention, sleep, anesthesia, mental health, and the ethical use of neurotechnology.
 
+## Table of contents
+
+- [Executive summary](#executive-summary)
+- [1. What the brain is](#1-what-the-brain-is)
+  - [Major structures and their broad roles](#major-structures-and-their-broad-roles)
+  - [Neurons, glia, and synapses](#neurons-glia-and-synapses)
+- [2. How the brain works: a multilevel view](#2-how-the-brain-works-a-multilevel-view)
+  - [Perception is inference, not a camera feed](#perception-is-inference-not-a-camera-feed)
+  - [Attention, working memory, and decision-making](#attention-working-memory-and-decision-making)
+  - [Learning, memory, and identity](#learning-memory-and-identity)
+  - [Emotion, motivation, and the body](#emotion-motivation-and-the-body)
+  - [Sleep and anesthesia](#sleep-and-anesthesia)
+- [3. Consciousness: what is known and what remains open](#3-consciousness-what-is-known-and-what-remains-open)
+  - [Distinguish the questions](#distinguish-the-questions)
+  - [Broad areas of agreement](#broad-areas-of-agreement)
+  - [Major competing theories](#major-competing-theories)
+  - [A major recent test: GNWT versus IIT](#a-major-recent-test-gnwt-versus-iit)
+  - [Consciousness in medicine](#consciousness-in-medicine)
+- [4. What brain science can measure—and what its tools cannot](#4-what-brain-science-can-measureand-what-its-tools-cannot)
+- [5. Conditions that affect the brain](#5-conditions-that-affect-the-brain)
+- [6. Treatments and interventions: benefits, trade-offs, and evidence](#6-treatments-and-interventions-benefits-trade-offs-and-evidence)
+  - [Trade-offs in "brain enhancement"](#trade-offs-in-brain-enhancement)
+- [7. Ongoing brain research: selected programs and projects](#7-ongoing-brain-research-selected-programs-and-projects)
+  - [How to interpret this research table](#how-to-interpret-this-research-table)
+- [8. Technologies that may change neuroscience](#8-technologies-that-may-change-neuroscience)
+  - [Better brain maps](#better-brain-maps)
+  - [Recording and manipulating activity](#recording-and-manipulating-activity)
+  - [Brain–computer interfaces](#braincomputer-interfaces)
+  - [NeuroAI and computational neuroscience](#neuroai-and-computational-neuroscience)
+  - [Digital twins and personalized brain models](#digital-twins-and-personalized-brain-models)
+- [9. Brain health: evidence-based foundations and limits](#9-brain-health-evidence-based-foundations-and-limits)
+- [10. Exercises and activities: how practice may affect brain systems](#10-exercises-and-activities-how-practice-may-affect-brain-systems)
+  - [10.1 Movement, coordination, and whole-brain health](#101-movement-coordination-and-whole-brain-health)
+  - [10.2 Memory, learning, language, and flexible thinking](#102-memory-learning-language-and-flexible-thinking)
+  - [10.3 Attention, executive control, and metacognition](#103-attention-executive-control-and-metacognition)
+  - [10.4 Emotion, stress, interoception, and social cognition](#104-emotion-stress-interoception-and-social-cognition)
+  - [10.5 Sensory perception, prediction, and body awareness](#105-sensory-perception-prediction-and-body-awareness)
+  - [10.6 Sleep, recovery, and routines that support learning](#106-sleep-recovery-and-routines-that-support-learning)
+  - [10.7 Exercises mapped to brain components](#107-exercises-mapped-to-brain-components)
+  - [10.8 How activities relate to theories of consciousness](#108-how-activities-relate-to-theories-of-consciousness)
+  - [10.9 A practical four-week starter plan](#109-a-practical-four-week-starter-plan)
+  - [10.10 What “brain exercise” cannot currently promise](#1010-what-brain-exercise-cannot-currently-promise)
+- [11. Twenty-five everyday tasks and what happens in the brain](#11-twenty-five-everyday-tasks-and-what-happens-in-the-brain)
+  - [11.1 Perception and movement](#111-perception-and-movement)
+  - [11.2 Memory and learning](#112-memory-and-learning)
+  - [11.3 Thinking and decision-making](#113-thinking-and-decision-making)
+  - [11.4 Emotion, motivation, and social life](#114-emotion-motivation-and-social-life)
+  - [11.5 Body and brain states](#115-body-and-brain-states)
+  - [11.6 What these descriptions can and cannot tell us](#116-what-these-descriptions-can-and-cannot-tell-us)
+- [12. Ethics, law, and society](#12-ethics-law-and-society)
+  - [Mental privacy and neural data](#mental-privacy-and-neural-data)
+  - [Autonomy and enhancement](#autonomy-and-enhancement)
+  - [Disability and personhood](#disability-and-personhood)
+  - [Consciousness and moral status](#consciousness-and-moral-status)
+- [13. Persistent misconceptions](#13-persistent-misconceptions)
+- [14. The biggest open questions](#14-the-biggest-open-questions)
+- [15. How to evaluate future claims about the brain](#15-how-to-evaluate-future-claims-about-the-brain)
+- [16. Recommended starting points](#16-recommended-starting-points)
+- [Final synthesis: where understanding stands](#final-synthesis-where-understanding-stands)
+- [Source and update note](#source-and-update-note)
+
 ## Executive summary
 
 The human brain is a living, adaptive information-processing organ embedded in a body and environment. It contains neurons, glia, blood vessels, immune-related cells, and complex chemical and electrical signaling systems. No single region does all the work: most abilities arise from interacting circuits whose contributions vary with task, context, development, and state.
@@ -281,7 +342,211 @@ These are risk-reduction and health-support measures, not guarantees against dis
 
 **Consciousness relevance:** healthy brain function supports wakefulness, attention, emotional regulation, and the capacity to engage with experience, but no lifestyle intervention has been shown to unlock a hidden, unlimited level of consciousness.
 
-## 10. Ethics, law, and society
+
+## 10. Exercises and activities: how practice may affect brain systems
+
+This section turns the preceding neuroscience into a practical, evidence-aware menu of activities. The aim is not to “activate” one brain region in isolation. Nearly every real task recruits multiple, interacting networks, and the same activity can affect different people differently. The links below are **functional associations**, not a claim that an exercise selectively trains a single structure or that a subjective feeling proves a specific neural change.
+
+**Evidence guide**
+- **Well supported:** the activity is broadly supported for the stated outcome, although the size of the effect varies.
+- **Promising / task-specific:** studies suggest benefits for some outcomes, but transfer to unrelated skills is uncertain.
+- **Exploratory:** a plausible research or self-observation activity, not an established way to improve a brain system.
+
+These activities are general education, not treatment for a neurological or psychiatric condition. Start at a comfortable level, adapt for disability or injury, and stop if an activity causes pain, dizziness, panic, or other concerning symptoms. People with medical limitations should ask a qualified clinician what forms of exercise are appropriate. Do not use sleep deprivation, extreme exertion, deliberate oxygen restriction, unsupervised brain stimulation, or psychoactive substances as “brain exercises.”
+
+### 10.1 Movement, coordination, and whole-brain health
+
+| Exercise | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Brisk walking, cycling, swimming, or another suitable aerobic activity** | Distributed motor and sensory networks; cerebellum and basal ganglia; cardiovascular systems that support brain perfusion | Cardiovascular fitness, mood, sleep, and some cognitive outcomes; regular activity also supports general brain health | **Well supported** for health and mood; cognitive effects vary. Begin with a manageable duration and build gradually toward public-health activity recommendations if appropriate. | Changes bodily state, alertness, and mood, which can alter the felt quality of experience. Embodied/enactive accounts emphasize the role of bodily action and feedback; exercise does not test or prove any consciousness theory. |
+| **Strength training with safe technique** | Motor cortex, spinal motor circuits, cerebellum, basal ganglia, sensory feedback systems | Strength, functional independence, and general health; possible indirect benefits through mood and metabolic health | **Well supported** for physical function. Use controlled movements, appropriate resistance, and rest; seek instruction if unfamiliar. | Intentions, effort, bodily sensation, and feedback become part of conscious experience. The exercise mainly tests motor learning and bodily regulation, not consciousness itself. |
+| **Balance practice near a stable support** | Cerebellum, vestibular pathways, proprioceptive and visual systems, attention networks | Balance and coordination, especially when practiced progressively | **Well supported** for task-specific balance improvement. Examples include supported single-leg stance or heel-to-toe walking in a safe area. Avoid fall-risk challenges without supervision. | Shows how perception and action are coupled: the brain combines visual, vestibular, and body-position information. This fits embodied approaches but does not establish that embodiment alone explains consciousness. |
+| **Learn a coordinated movement skill** (dance steps, tai chi, juggling with soft objects, or a new sport) | Cerebellum, motor and premotor cortex, basal ganglia, parietal sensory networks, attention and memory systems | Timing, coordination, movement prediction, and skill-specific learning | **Promising / task-specific.** Practice slowly, receive feedback, and increase difficulty in small steps. Improvements may not transfer to unrelated cognitive tasks. | Prediction and error correction are central to motor learning. Predictive-processing accounts can describe some of this learning, but successful motor prediction is not proof that predictive processing explains all conscious experience. |
+| **Hand–eye coordination with a safe target** (soft-ball toss, catching, simple reaction drills) | Visual pathways, parietal spatial processing, motor cortex, cerebellum | Visual-motor timing and task-specific coordination | **Promising / task-specific.** Use a soft object and clear space; track accuracy or response time rather than relying on impressions alone. | Attention can prioritize the target while much sensorimotor processing occurs without detailed conscious awareness. This illustrates—but does not settle—the distinction between attention and consciousness. |
+
+### 10.2 Memory, learning, language, and flexible thinking
+
+| Exercise | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Spaced retrieval practice**: learn a small set of facts, close the notes, recall them, then revisit after increasing intervals | Hippocampus and medial temporal lobe during many forms of new episodic learning; distributed cortical networks as knowledge stabilizes | Retention of the practiced material | **Well supported** for long-term learning. Try short reviews later the same day, the next day, and several days later; adjust spacing to difficulty. | Remembering makes information available to conscious report, but memory is not the same as conscious experience. Recall is reconstructive, so confidence does not guarantee accuracy. |
+| **Interleaving and varied practice**: mix problem types rather than repeating one type in a block | Attention, working memory, memory systems, and task-relevant cortical networks | Discrimination between problem types and transfer in some learning settings | **Well supported in some domains; context-dependent.** Mix similar tasks after learning their basic steps; compare performance with blocked practice. | Requires selecting which mental model applies. GNWT-style accounts may describe information becoming available for flexible use, but the activity cannot distinguish GNWT from rival theories by itself. |
+| **Explain a concept from memory in plain language** (the “teach it” exercise) | Language networks, semantic memory, retrieval, monitoring, and executive control | Detecting gaps in understanding and organizing knowledge | **Promising / task-specific.** Explain without notes, then check against a reliable source and correct errors. | Makes some knowledge available for deliberate report and self-monitoring. Higher-order theories focus on representations of one's own mental states, but explaining a concept is not a direct test of those theories. |
+| **Learn a language or practice conversation** | Distributed auditory, visual, motor, language, memory, and social-cognition networks | Language proficiency and practiced vocabulary; broader effects depend on age, intensity, and individual factors | **Well supported** for learning the language itself; broad “brain enhancement” claims are less certain. Use active recall, listening, speaking, and feedback. | Language shapes what can be reported and discussed, but language ability is not a prerequisite for every kind of conscious experience. |
+| **Read a challenging passage and summarize its argument** | Language and semantic networks, attention, working memory, and executive control | Comprehension and synthesis of the material practiced | **Promising / task-specific.** Write the main claim, supporting reasons, and one unresolved question, then compare with the text. | Helps separate immediate experience from later interpretation and report. Consciousness studies must account for this gap between experience, memory, and verbal description. |
+| **Solve varied problems** (logic puzzles, math, coding, or practical troubleshooting) | Task-dependent combinations of prefrontal, parietal, memory, and attention networks | Domain-specific strategies and practiced problem-solving | **Well supported** for skills practiced; far transfer to general intelligence is uncertain. Choose meaningful problems and review mistakes. | Makes information available for deliberate reasoning. GNWT addresses broad availability, while other theories emphasize different mechanisms; puzzle performance alone cannot adjudicate them. |
+| **Draw an object from observation, then from memory** | Visual processing, spatial attention, motor control, memory, and error monitoring | Observation, visual-motor practice, and memory for selected features | **Promising / task-specific.** Compare the drawing with the original and note which details were missed. | Perception is an interpretation rather than a perfect recording. Predictive-processing accounts emphasize expectations, while this exercise can reveal how expectation and memory shape what is drawn. |
+
+### 10.3 Attention, executive control, and metacognition
+
+| Exercise | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Single-task focus interval**: work on one task for 10–25 minutes, record interruptions, and take a brief break | Frontoparietal control and attention networks; task-specific sensory and memory systems | Task completion and awareness of distraction patterns | **Promising / task-specific.** Pick one clear goal, silence nonessential notifications, and note when attention wanders. Do not treat one interval length as universally optimal. | Attention selects information, but attention and conscious experience are not identical. This exercise observes attentional control; it does not measure consciousness directly. |
+| **Mindfulness or breath-attention practice**: notice breathing, recognize distraction, gently return attention | Attention and monitoring networks, interoceptive systems, and emotion-related networks | Some people experience reduced stress or improved regulation; effects vary and are not universal | **Moderate, condition- and protocol-dependent evidence.** Start with a few comfortable minutes. If inward attention increases distress, stop and choose an external grounding activity or seek guidance. | Directly examines the changing contents of experience and awareness of distraction. It is compatible with multiple theories and does not establish that awareness is independent of the brain. |
+| **Name the distraction and return to the task** (“planning,” “remembering,” “worrying”) | Attention, language, metacognitive monitoring, and emotion regulation networks | Awareness of thought patterns and deliberate redirection | **Promising / task-specific.** Use neutral labels; the goal is observation, not suppressing thoughts or judging yourself. | Relates to higher-order and attention-schema accounts because a person represents aspects of their own mental activity. Such self-report remains imperfect evidence about the underlying mechanism of consciousness. |
+| **Task switching with an error log**: alternate between two simple tasks and track mistakes and time | Executive-control and attention networks | Better understanding of switching costs and personal limits; practice may help with the task rules | **Well supported** that switching has costs; improvement in general multitasking is not guaranteed. Compare single-task and alternating-task performance. | Makes the cost of changing goals observable. A conscious intention to switch does not mean all switching processes are conscious. |
+| **Pause–predict–check**: before a choice, write your prediction and confidence, then compare with the outcome | Executive control, memory, valuation, and error-monitoring systems | Calibration, planning, and learning from feedback | **Promising / task-specific.** Keep predictions measurable and record outcomes without rewriting the original estimate. | Supports examination of metacognition and the accuracy of conscious confidence. A feeling of certainty is not a direct readout of neural accuracy or subjective experience. |
+
+### 10.4 Emotion, stress, interoception, and social cognition
+
+| Exercise | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Slow, comfortable breathing** without breath-holding or forcing depth | Autonomic regulation, brainstem-linked systems, interoceptive networks, and attention | May help some people settle acute stress or arousal | **Moderate, protocol-dependent evidence.** Breathe comfortably and stop if light-headed. This is not a substitute for care for persistent anxiety or breathing symptoms. | Changes bodily signals that contribute to felt emotion and arousal. Embodied theories emphasize these loops; subjective calm alone does not identify a specific neural mechanism. |
+| **Emotion diary with situation, body cues, interpretation, and action urge** | Memory, language, interoception, emotion-related networks, and executive monitoring | Better recognition of patterns and triggers; may support therapy | **Promising as a self-monitoring aid**, not a standalone treatment for every condition. Keep entries brief and nonjudgmental; discontinue if journaling intensifies rumination. | Separates bodily changes, interpretations, and felt experience—components that theories of emotion and consciousness try to explain. A diary is a report, not a direct neural measurement. |
+| **Cognitive reappraisal**: write one initial interpretation, then two plausible alternatives supported by evidence | Prefrontal control networks interacting with emotion and memory systems | Flexible interpretation and coping in some situations | **Moderate, context-dependent evidence.** Do not use reappraisal to deny danger, excuse abuse, or dismiss legitimate emotions. | Tests how interpretation changes felt meaning. It aligns with the idea that context and prior beliefs shape experience, without proving any single predictive-processing theory. |
+| **Active listening**: summarize another person's point before replying; ask whether you understood correctly | Language, attention, memory, perspective-taking, and social-cognition networks | Listening accuracy and communication skills | **Promising / skill-specific.** Practice in ordinary conversations with consent and respect. | Demonstrates that another person's experience is inferred rather than directly accessed. Social judgments about awareness connect to attention-schema ideas, but cannot establish another person's private experience with certainty. |
+| **Graded, supported exposure to a safe feared situation** | Learning and memory systems, threat/relevance networks, attention, and regulation systems | May reduce avoidance and update learned threat expectations in appropriate clinical contexts | **Evidence-based within suitable treatments**, but not appropriate for every fear or trauma without careful planning. For severe anxiety, PTSD, panic, or trauma-related symptoms, work with a qualified clinician rather than forcing exposure alone. | Changes how cues are interpreted and experienced; it does not erase the reality of a person's feelings. Conscious fear, physiological arousal, and learned responses may change at different rates. |
+
+### 10.5 Sensory perception, prediction, and body awareness
+
+| Exercise | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Mindful sensory scan**: identify a few sounds, colors, textures, or smells in the environment | Sensory pathways, attention, memory, and salience networks | Present-moment noticing and attentional practice | **Promising / task-specific.** Briefly name observations without needing to judge them. Avoid if sensory focus is uncomfortable. | Makes the distinction between sensory processing and deliberate awareness easier to notice. GNWT, RPT, and other theories disagree about what additional processing makes sensory information conscious. |
+| **Perceptual discrimination practice**: compare similar sounds, shapes, or tones and receive feedback | Task-specific sensory cortex and associated attention/decision networks | Accuracy for the practiced discrimination | **Well supported for many trained perceptual tasks**, with transfer varying by task. Use safe sound levels and avoid visual or auditory strain. | Shows that perception can become more precise through learning. Improved discrimination does not show that a person has gained more consciousness overall. |
+| **Expectation-versus-observation log**: predict what a faint or ambiguous stimulus will be, then record what is actually identifiable | Sensory, attention, memory, and decision systems | Awareness of expectation and uncertainty; not necessarily better raw perception | **Exploratory.** Use ordinary, harmless stimuli and include “uncertain” as a valid response. | A practical way to explore predictive-processing ideas and perceptual bias. Results are not a clinical test and do not uniquely support one theory. |
+| **Eyes-closed body-position task while seated**: gently identify the position of a hand or foot, then check visually | Proprioceptive pathways, somatosensory cortex, and body representation networks | Awareness of body-position cues and task-specific discrimination | **Promising / task-specific.** Stay seated, use gentle movements, and avoid if you have impaired sensation or injury without professional advice. | Highlights how bodily signals contribute to the experienced body. It does not establish that the self is merely a body model or settle debates about self-consciousness. |
+
+### 10.6 Sleep, recovery, and routines that support learning
+
+| Exercise or habit | Systems likely involved | What may improve | Evidence and practical approach | Consciousness and theory connections |
+| --- | --- | --- | --- | --- |
+| **Keep a consistent sleep–wake schedule** as far as practical | Circadian timing systems, hypothalamic and brainstem sleep–wake networks, and widespread cortical systems | Alertness, mood, learning, and regularity of sleep | **Well supported** as a general sleep-health practice. Most adults need about 7–9 hours, but needs vary. Persistent insomnia, loud snoring, or daytime sleepiness warrants medical evaluation. | Sleep changes responsiveness and the content of experience, including dreams. Sleep and anesthesia research inform consciousness science but do not by themselves identify a complete theory. |
+| **Review learned material after sleep rather than replacing sleep with cramming** | Memory systems and distributed cortical networks | Retention and consolidation for many kinds of learning | **Well supported**, though sleep's effects differ by memory type and individual. Study, sleep adequately, and test recall later. | A person may have conscious experiences during sleep, but later recall is incomplete and cannot perfectly reveal what was experienced. |
+| **Schedule recovery breaks** after demanding mental or physical work | Attention, arousal, and task-dependent networks | May help sustain performance and reduce fatigue | **Practical, individual-dependent.** Use breaks that actually provide recovery rather than adding another demanding screen task. | Fatigue changes attention and the experience of effort. It should not be mistaken for a simple global decrease in consciousness. |
+
+### 10.7 Exercises mapped to brain components
+
+This is a simplified cross-reference. It describes systems commonly involved, not exclusive targets.
+
+| Brain component or system | Activities that commonly recruit it | Important caution |
+| --- | --- | --- |
+| **Hippocampus / medial temporal memory systems** | Spaced retrieval, learning routes, remembering stories, contextual learning | Remembering a task better does not mean all memory systems have improved. |
+| **Prefrontal and frontoparietal control networks** | Planning, single-task focus, task switching, explaining a concept, checking predictions | “Executive function” is distributed; a single puzzle does not isolate or fully train the prefrontal cortex. |
+| **Sensory and parietal networks** | Perceptual discrimination, drawing from observation, hand–eye tasks, body-position tasks | Sensory practice often improves the practiced discrimination more than unrelated abilities. |
+| **Cerebellum** | Balance, dance, coordinated movement, timing and error-correction tasks | It contributes to more than movement, but a movement drill is not a proven way to improve every cognitive function associated with the cerebellum. |
+| **Basal ganglia and action-learning loops** | Repeated skill practice, habit formation, sequencing, feedback-guided movement | Repetition can strengthen helpful skills and unhelpful habits alike; design the routine deliberately. |
+| **Amygdala and broader relevance/threat networks** | Emotion learning, safe and supported exposure, reappraisal, emotionally meaningful learning | The amygdala is not just a fear center; activities are not a substitute for treatment of trauma or anxiety disorders. |
+| **Hypothalamus, brainstem, and autonomic systems** | Sleep regularity, suitable exercise, comfortable breathing, hydration and routine | These systems regulate vital functions. Do not attempt extreme breathing, oxygen restriction, or sleep deprivation as training. |
+| **White matter and long-range network communication** | Repeated learning and coordinated skills over time | A person cannot directly feel or verify that a specific white-matter pathway has changed without appropriate measurement. |
+| **Neurons, synapses, and glia** | Learning, sleep, physical activity, rehabilitation, and experience across time | These cellular components are not consciously targeted by a specific everyday exercise; changes are complex and cannot be inferred from a feeling or score alone. |
+
+### 10.8 How activities relate to theories of consciousness
+
+Exercises can help people notice attention, perception, bodily signals, memory, and self-report. **They cannot, by themselves, prove a theory of consciousness.** The theories in Section 3 make different claims about mechanisms that may be necessary for experience; testing those claims requires carefully controlled experiments and measurements.
+
+| Theory or framework | Relevant activity or observation | What it may illustrate | What it cannot establish |
+| --- | --- | --- | --- |
+| **Global Neuronal Workspace Theory (GNWT)** | Learn information, then test whether it can be flexibly used across tasks; compare focused attention with distraction | How information becomes available for report, planning, and flexible behavior | Flexible report is not proof of a unique global “ignition” mechanism; task performance alone cannot validate GNWT. |
+| **Integrated Information Theory (IIT)** | Compare how integrated a task or system appears across different conditions, using only established behavioral observations | Raises questions about unity and integration | Everyday exercises cannot measure IIT's proposed quantities or establish that a particular activity increases consciousness. |
+| **Recurrent Processing Theory (RPT)** | Compare rapid first impressions with later feedback, correction, and repeated viewing | Shows that perception can change with ongoing processing and feedback | Subjective reports cannot isolate recurrent neural processing from attention, memory, and decision-making. |
+| **Higher-Order Theories (HOT)** | Record an initial judgment and a separate confidence rating; compare confidence with accuracy | Makes metacognitive monitoring observable | Confidence is not the same as consciousness, and a diary cannot show whether higher-order representation is necessary for experience. |
+| **Predictive-processing accounts** | Make a prediction about an ambiguous stimulus, observe it, and log prediction errors | Shows how expectations can influence interpretation and be revised | This does not show that every brain function is predictive coding or that prediction alone explains subjective experience. |
+| **Attention schema theory** | Notice how you infer that another person is paying attention, then check your inference with them | Highlights that judgments about attention and awareness can be models rather than direct access | Does not prove that an attention model creates subjective experience. |
+| **Enactive / embodied approaches** | Practice balance, movement, sensory exploration, and comfortable interoceptive awareness | Demonstrates that action, bodily state, and environment shape perception and feeling | Does not prove that bodily interaction is sufficient to explain all consciousness. |
+| **Physicalist views** | Observe how sleep, injury, medication, fatigue, and sensory changes alter experience and performance | Fits the strong evidence that brain and body states systematically affect experience | Dependence on brain states does not, on its own, complete the explanation of why experience feels like anything. |
+| **Dualist or non-physical views** | Reflect on the difference between first-person experience and third-person measurement | Clarifies the philosophical question of subjective experience | Personal reflection is not empirical evidence for a non-physical mechanism and does not replace testable predictions. |
+
+### 10.9 A practical four-week starter plan
+
+The plan below is a flexible example, not a prescription. Choose activities that are safe and accessible for you. The purpose is to build a sustainable routine and observe meaningful outcomes—not to diagnose brain function or measure consciousness.
+
+| Week | Main focus | Example routine | What to record |
+| --- | --- | --- | --- |
+| **1: Establish a baseline** | Sleep regularity, comfortable movement, and one short learning task | Keep a simple sleep log; do suitable movement on several days; use 5–10 minutes of spaced retrieval | Sleep duration/regularity, energy, mood, and recall accuracy |
+| **2: Add attention practice** | Single-task intervals and gentle attention redirection | One focused work interval on most days; briefly note distractions and return to the task | Completed work, interruptions, and perceived effort |
+| **3: Add coordination or perception** | A safe movement skill or a perceptual task | Practice balance with support, dance steps, drawing, or sound/shape discrimination for short sessions | Accuracy, consistency, and any discomfort |
+| **4: Add reflection and compare** | Metacognition and review | Use a prediction-and-check log; compare results with Week 1; keep the most sustainable activities | Observable changes, barriers, and whether the activity helped daily life |
+
+**Simple tracking template**
+- Activity and duration:
+- Sleep / fatigue before the activity:
+- Goal or prediction:
+- Observable result (time, accuracy, recall, or completion):
+- Mood or discomfort, if relevant:
+- What changed when I repeated it?
+- What else might explain the result (practice, sleep, stress, familiarity, or chance)?
+
+Do not infer that a brain region changed simply because a score improved. Improvement can reflect familiarity, strategy, motivation, measurement noise, or several interacting mechanisms. For a stronger personal experiment, define one outcome in advance, use the same measure over time, avoid changing many things at once, and treat the result as an observation rather than a diagnosis.
+
+### 10.10 What “brain exercise” cannot currently promise
+
+- No everyday activity is known to selectively strengthen one brain region while leaving the rest uninvolved.
+- Improvement on a practiced task does not reliably imply a broad increase in intelligence, memory, attention, or creativity.
+- There is no established exercise routine proven to increase the amount of consciousness a person has, unlock unlimited awareness, or settle the competing theories.
+- A change in mood, attention, or self-awareness is meaningful as an experience, but it is not a direct measurement of neurons, synapses, or a theory-specific consciousness mechanism.
+- Rehabilitation after injury or treatment for a disorder may require individualized, clinician-guided exercises. General brain-health habits should complement—not replace—appropriate care.
+
+The strongest practical approach is to combine **regular suitable physical activity, sufficient sleep, purposeful learning, social connection, and task-specific practice**, then judge success by sustained function and well-being rather than by claims about “activating” a particular brain area.
+
+
+## 11. Twenty-five everyday tasks and what happens in the brain
+
+This section describes 25 common tasks and, in simplified form, which brain systems are typically involved and what they appear to be doing. It builds on the structures in Section 1 and the multilevel view in Section 2. The tasks are grouped into five categories: perception and movement, memory and learning, thinking and decision-making, emotion and social life, and body and brain states.
+
+**How to read the tables**
+- Each description names systems that are *commonly* involved, based on a mix of human imaging, lesion, and recording studies and, in some cases, animal research. It is not a complete circuit diagram.
+- No task uses one region in isolation. Regions act as parts of networks, and the balance of activity shifts with practice, fatigue, age, and individual differences.
+- Much of the processing described here happens without conscious awareness. Awareness of the *result* (a recognized face, a remembered event, a feeling of pain) is a separate question, discussed in Section 3.
+- The "Notes and caveats" column flags simplifications, debates, and the limits of the evidence. These are educational summaries, not diagnostic statements about any person's brain.
+
+### 11.1 Perception and movement
+
+| # | Task | What happens in the brain | Notes and caveats |
+| --- | --- | --- | --- |
+| 1 | **Reading a sentence** | Light patterns on the retina are relayed through the thalamus to primary visual cortex. Eye movements are directed by midbrain and frontal systems so that each word lands on the sharpest part of the retina. A region of left ventral occipitotemporal cortex, often called the visual word form area, helps recognize letter strings. Left-lateralized temporal and frontal language networks then link words to sounds, meanings, and grammar, while working memory in prefrontal and parietal cortex holds the sentence so far. | The exact role and name of the word-form region are debated. Skilled reading is fast and largely automatic, and the same networks are reused for listening in part. |
+| 2 | **Recognizing a face** | Visual information flows along the ventral visual stream, where face-selective patches in occipital and temporal cortex (including the fusiform and superior temporal regions) analyze facial features and expression. Anterior temporal regions contribute to identity and what you know about the person, while memory systems and the amygdala add familiarity and emotional significance. | Face-selective regions also respond to other stimuli, and face recognition is a network process rather than a single module. Damage can cause prosopagnosia (difficulty recognizing faces) with other vision intact. |
+| 3 | **Following a conversation in a noisy room** | Sound is converted to neural signals in the cochlea and relayed through brainstem and thalamus to auditory cortex. Frontoparietal attention networks bias processing toward the attended voice, and cortical activity tracks the speech rhythm of that voice more strongly than competing sounds. Language areas extract meaning, and visual cues such as lip movements are combined with sound in multisensory regions. | Hearing loss can make this far more effortful because additional attention and memory resources are needed. Listening effort and fatigue are real and measurable. |
+| 4 | **Catching a ball** | Visual motion areas and parietal cortex estimate the ball's trajectory, and the brain predicts where and when it will arrive instead of reacting only to its current position. Premotor and motor cortex plan the reach, the cerebellum refines timing and coordination, and spinal circuits carry out the movement. Sensory feedback from the hand and arm lets the cerebellum and cortex correct errors over repeated attempts. | Much of this is not consciously controlled. People can catch objects without being able to describe the calculation involved. |
+| 5 | **Typing without looking** | Early in learning, prefrontal and attention networks are heavily involved. With practice, basal ganglia and cerebellar circuits help turn sequences of keystrokes into smoother, more automatic chunks that motor and premotor cortex execute, with somatosensory feedback and error-monitoring checking the result. | The shift from effortful to automatic control is a useful generalization, not a clean handoff between regions. Control networks still engage when errors occur or the text is unfamiliar. |
+
+### 11.2 Memory and learning
+
+| # | Task | What happens in the brain | Notes and caveats |
+| --- | --- | --- | --- |
+| 6 | **Holding a phone number in mind long enough to dial it** | Prefrontal and parietal cortex help maintain the information in working memory, aided by silent verbal rehearsal that uses speech- and language-related circuits. Maintenance may involve sustained activity, short-term changes in synaptic strength, or dynamic activity patterns depending on the task. | Working memory has strict capacity limits, and distraction can erase the contents. The underlying mechanisms are still debated. |
+| 7 | **Recalling what you did yesterday** | The hippocampus and medial temporal lobe help reactivate distributed cortical patterns that were present when the event was experienced. Prefrontal regions guide the search and evaluate what comes to mind, while parietal and default-mode network regions are often active during autobiographical recall. | Retrieval is reconstructive: memories can change each time they are recalled, and vividness or confidence does not guarantee accuracy. |
+| 8 | **Finding your way through a familiar neighborhood** | The hippocampus and neighboring entorhinal cortex contain cells that signal location, direction, and spatial structure (place cells, grid cells, and head-direction cells in animal research, with supporting evidence in humans). Retrosplenial and parietal cortex help connect landmarks to the direction you need to go, while basal ganglia circuits support habitual, turn-by-turn route responses. | Much of the cell-level detail comes from rodent studies. People vary in whether they rely more on map-like or route-based strategies. |
+| 9 | **Practicing a new piece of music or other skill** | Auditory, motor, and somatosensory cortex work together while the cerebellum and basal ganglia refine timing, sequencing, and error correction. Repeated practice changes synaptic strength and the way motor cortex represents the skill. Sleep after practice is associated with consolidation of motor and other learning. | Practice quality, spacing, feedback, and sleep all matter. Skill-specific gains do not reliably transfer to unrelated abilities. |
+| 10 | **Learning from a mistake** | Medial frontal regions, including the anterior cingulate cortex, are involved in detecting errors and conflicts. In reward-based learning, dopamine signals can encode the difference between what was expected and what happened (a prediction error), and basal ganglia and prefrontal circuits use this to adjust future choices. | Dopamine is one part of a larger learning system, and prediction error is not the only learning signal. Emotional state and context shape how feedback is used. |
+
+### 11.3 Thinking and decision-making
+
+| # | Task | What happens in the brain | Notes and caveats |
+| --- | --- | --- | --- |
+| 11 | **Doing mental arithmetic** | Regions around the intraparietal sulcus contribute to representing quantity and magnitude. Prefrontal working-memory and control networks hold intermediate results and manage steps, and language-related circuits help retrieve memorized facts such as multiplication tables. | Strategy matters: memorized facts, counting, and estimation recruit somewhat different circuits. Anxiety about math can alter performance. |
+| 12 | **Choosing between two options** | Ventromedial prefrontal cortex, orbitofrontal cortex, and the striatum contribute to signals about expected value. Parietal and frontal circuits appear to accumulate evidence over time until a choice is made, while the anterior cingulate cortex, insula, and amygdala contribute information about conflict, cost, risk, bodily state, and emotional relevance. | There is no single "decision center." Decision models are simplified and differ across kinds of choices. |
+| 13 | **Resisting a temptation** | Lateral prefrontal cortex and inferior frontal regions can bias valuation toward longer-term goals and help inhibit a prepotent response. They interact with striatal and other reward-related circuits that signal the pull of the immediate option. | Fatigue, stress, and poor sleep can weaken control. Claims that self-control is a simple depletable resource are contested, and changing the environment often works better than relying on in-the-moment effort. |
+| 14 | **Having a sudden insight while solving a puzzle** | After an impasse, studies of insight problems report changes in the anterior cingulate cortex, temporal regions (including anterior right temporal regions), and memory systems that may reflect restructuring how the problem is represented. The "aha" moment can also engage reward-related circuits. | Findings come mainly from lab puzzles with modest sample sizes. How well they generalize to real-world creativity is uncertain. |
+| 15 | **Switching between two tasks** | Frontoparietal control networks must reconfigure the goals and rules for the new task, while some activation from the old task lingers. This lingering contributes to slower responses and more errors right after a switch (switch cost). Basal ganglia circuits help gate which information is updated. | What is called multitasking is mostly rapid switching with costs. Practice can improve a specific task pair, but broad improvement in multitasking ability is not established. |
+
+### 11.4 Emotion, motivation, and social life
+
+| # | Task | What happens in the brain | Notes and caveats |
+| --- | --- | --- | --- |
+| 16 | **Reacting to a sudden loud noise** | A fast brainstem circuit produces the startle reflex within tens of milliseconds. In parallel, sensory signals reach the amygdala and connected networks, including hypothalamic and brainstem regions, which drive autonomic changes such as faster heart rate and adrenaline release. Slower cortical and hippocampal processing evaluates the context and can dampen the response if there is no real danger. | The amygdala is not simply a fear center, and the relative importance of fast subcortical routes in humans is debated. A bodily alarm response is not identical to the felt experience of fear. |
+| 17 | **Enjoying a favorite food or piece of music** | Reward-related circuits, including midbrain dopamine neurons, the ventral striatum, and orbitofrontal cortex, respond to valued experiences and help predict them. Opioid and endocannabinoid signaling contributes to the pleasure itself (liking), while dopamine is more closely tied to anticipation and motivation (wanting). Auditory or taste and smell pathways supply the sensory content. | Dopamine is not simply the pleasure chemical. Wanting and liking can be dissociated, and individual taste varies widely. |
+| 18 | **Feeling pain after stubbing a toe** | Nociceptors send signals through the spinal cord to the thalamus. Somatosensory cortex contributes to where the pain is and how intense it is, while the insula and anterior cingulate cortex are more closely tied to its unpleasantness. Descending pathways from the prefrontal cortex and brainstem (including the periaqueductal gray) can amplify or reduce incoming signals. | Pain is not a direct readout of tissue damage and there is no single pain center. In chronic pain, plasticity in these circuits can maintain pain beyond the original injury. |
+| 19 | **Reading another person's emotions** | Visual and auditory cortex process faces, body language, and tone of voice, with the superior temporal region and amygdala contributing to social and emotional signals. Networks involved in considering others' thoughts, including the temporoparietal junction and medial prefrontal cortex, help infer intentions, while insula and cingulate regions are implicated in sharing another person's feelings. | Inferences about others' states are imperfect and shaped by context and culture. Claims about "mirror neurons" explaining empathy in humans are debated. |
+| 20 | **Speaking in a conversation** | Frontal and temporal networks select the meaning to express, left temporal regions help retrieve words, and inferior frontal and other regions sequence sounds and grammar. Motor cortex, cerebellum, and basal ganglia coordinate the lips, tongue, larynx, and breathing, while auditory cortex monitors your own voice so errors can be corrected. | The classic picture of two language areas is a simplification, since language is distributed across many regions. Handedness and individual differences affect lateralization. |
+
+### 11.5 Body and brain states
+
+| # | Task | What happens in the brain | Notes and caveats |
+| --- | --- | --- | --- |
+| 21 | **Falling asleep and dreaming** | Rising sleep pressure (including accumulation of adenosine) and circadian timing signals from the hypothalamus promote sleep-active neurons that inhibit arousal systems in the brainstem, hypothalamus, and basal forebrain. Thalamocortical activity changes, producing slow oscillations and sleep spindles in non-REM sleep. REM sleep involves brainstem-driven activation of the cortex with loss of muscle tone, and hippocampal-cortical interactions during sleep are linked to memory consolidation. | Dreams occur in REM but also in other sleep stages. The functions of sleep are partly understood, and sleep mechanisms differ across individuals and ages. |
+| 22 | **Feeling hungry, then full** | The hypothalamus integrates hormonal signals such as ghrelin, leptin, and insulin with gut signals relayed through the vagus nerve to the brainstem. Specific hypothalamic neuron populations promote or suppress feeding, while reward, memory, and cognitive systems shape cravings and responses to food cues. | Much of the cell-level detail comes from animal studies. Eating is also shaped by learning, culture, social setting, and stress. |
+| 23 | **Feeling more alert after coffee** | Caffeine blocks adenosine receptors, reducing the effect of a molecule that builds up with time awake and promotes sleepiness. This indirectly increases activity in arousal-related and dopamine-related circuits. | Caffeine masks sleepiness but does not remove sleep debt. Sensitivity varies, late use can disrupt sleep, and it can worsen anxiety or palpitations in some people. |
+| 24 | **Going for a run** | Motor cortex, cerebellum, and spinal rhythm-generating circuits produce and adjust the repeated stride pattern, while brainstem and autonomic systems adjust breathing and heart rate. Blood flow shifts, and neuromodulators and signaling molecules such as endocannabinoids and growth factors are released, which may contribute to changes in mood and plasticity. | Mechanisms behind the "runner's high" are debated, and some molecular findings come from animal studies. Responses vary with fitness, intensity, and health status. |
+| 25 | **Letting your mind wander** | When attention is not tightly focused on an outside task, default-mode network regions (medial prefrontal cortex, posterior cingulate and precuneus, angular gyrus, and medial temporal areas) tend to become more active. They support autobiographical memory, imagining the future, and thinking about other people, and they interact with frontoparietal control networks that can sustain or interrupt the wandering. | The default-mode network is active in many kinds of tasks and is not simply "idle." Mind wandering can be useful for planning and creativity, but repetitive negative rumination is associated with distress. |
+
+### 11.6 What these descriptions can and cannot tell us
+
+- **Associations, not exclusive roles.** Imaging often reports average activity across groups of people. A region being active during a task does not mean it is sufficient or uniquely necessary for it.
+- **Simplified timing.** These tasks unfold over milliseconds to minutes with feedback loops among regions, which a short description cannot capture.
+- **Individual and state differences.** Age, training, sleep, stress, medications, and health conditions change which circuits are recruited and how efficiently.
+- **Awareness is a separate question.** Most of the processing described here is not itself experienced. Which of these processes is accompanied by conscious experience, and why, is the question the theories in Section 3 try to answer.
+- **No self-diagnosis.** Experiencing difficulty with a task such as reading, remembering, sleeping, or controlling impulses is not enough to infer anything about a specific brain region. Persistent or worsening difficulties are worth discussing with a qualified clinician.
+
+## 12. Ethics, law, and society
 
 ### Mental privacy and neural data
 
@@ -299,7 +564,7 @@ BCIs and rehabilitation should be developed with disabled people rather than mer
 
 Uncertainty about consciousness affects decisions involving infants, severe brain injury, dementia, anesthesia, animals, and future artificial systems. No simple behavioral checklist resolves all cases. Evidence should be assessed carefully, and uncertainty should encourage proportionate caution rather than confident speculation.
 
-## 11. Persistent misconceptions
+## 13. Persistent misconceptions
 
 - **"We use only 10% of our brains."** False. Many brain systems are active across ordinary activities, though not every neuron fires at once.
 - **"Left-brained people are logical; right-brained people are creative."** Oversimplified. Some functions are lateralized, but complex cognition uses both hemispheres.
@@ -311,7 +576,7 @@ Uncertainty about consciousness affects decisions involving infants, severe brai
 - **"A treatment that changes a scan has necessarily helped."** False. Clinical benefit must be measured in meaningful outcomes, not only biomarkers.
 - **"Science has proved consciousness is an illusion."** No. There are theories about how the brain constructs perceptions and self-models, but subjective experience is a real phenomenon requiring explanation, even if interpretations of it differ.
 
-## 12. The biggest open questions
+## 14. The biggest open questions
 
 1. **The explanatory gap:** What complete account connects physical processes to subjective experience?
 2. **The neural basis of conscious content:** Which circuits and dynamics are necessary or sufficient for particular experiences?
@@ -326,7 +591,7 @@ Uncertainty about consciousness affects decisions involving infants, severe brai
 11. **Cross-species inference:** Which findings from mice, primates, and artificial models generalize to human cognition and consciousness?
 12. **What counts as explanation?** Can a theory predict and control brain behavior accurately while still leaving subjective experience unexplained?
 
-## 13. How to evaluate future claims about the brain
+## 15. How to evaluate future claims about the brain
 
 When encountering a headline or product claim, ask:
 
@@ -341,7 +606,7 @@ When encountering a headline or product claim, ask:
 
 For consciousness theories specifically, look for predictions that distinguish one theory from its rivals. A theory that can explain every possible result after the fact is not a strong scientific theory.
 
-## 14. Recommended starting points
+## 16. Recommended starting points
 
 - [NINDS: Brain Basics](https://www.ninds.nih.gov/health-information/public-education/brain-basics) — accessible anatomy and function.
 - [NIH BRAIN Initiative](https://www.nih.gov/brain/about) — major U.S. research program and strategic priorities.

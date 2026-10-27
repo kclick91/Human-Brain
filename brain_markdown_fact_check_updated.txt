@@ -1,0 +1,254 @@
+FACT-CHECK REPORT — UPDATED REVIEW
+The Human Brain: What We Know, What We Debate, and What Comes Next
+
+Reviewed file: README(10).md
+Previous report reviewed: brain_markdown_fact_check(1).txt
+Review date: October 27, 2026
+Review type: Targeted fact-check and editorial reliability audit, with selected external-source verification
+
+OVERALL RELIABILITY SCORE: 8.6 / 10
+Assessment: Strong introductory educational resource; generally accurate and appropriately cautious, but still too broad to serve as a fully sourced reference or clinical guide.
+
+IMPORTANT SCOPE NOTE
+This is a targeted review, not a line-by-line systematic review of all 957 lines, every table entry, or every citation. The report distinguishes (1) claims that are broadly supported, (2) points that should be qualified or sourced more clearly, and (3) editorial improvements. The score is an editorial judgment, not a validated scientific metric.
+
+1. EXECUTIVE SUMMARY
+
+README(10).md presents a broadly sound account of neuroscience. Its strongest features are its repeated warnings against one-region/one-function thinking; its separation of established findings from hypotheses; its nuanced treatment of consciousness; its recognition that imaging measures have limitations; and its caution that everyday exercises do not selectively train a brain region or prove a consciousness theory.
+
+The current version has made useful editorial improvements relative to the previous version assessed in the earlier report. It now explicitly defines its qualitative exercise-evidence labels, adds caveats to the everyday-task tables, and has a clearer source/update note. These changes improve transparency, though they do not fully resolve the citation gaps identified previously.
+
+I found no obvious central error that overturns the document’s overall account. The most important remaining weaknesses are:
+- Evidence and mechanisms in the treatment, exercise, and everyday-task sections are not consistently supported by row-level citations.
+- Clinical status is not systematically distinguished between FDA-approved indication, established practice, off-label use, and experimental use.
+- Some claims are simplified in ways that are acceptable for an introductory guide but need nearby caveats when used as a reference.
+- The source note does not specify a reproducible search method, source-selection criteria, or a full claim-by-claim verification process.
+- The stated update date is current for this review, but time-sensitive treatment, personnel, and research-program details should be rechecked at publication.
+
+2. WHAT CHECKED OUT
+
+A. The broad model of brain function is sound.
+The document describes brain function as the interaction of neurons, glia, vascular and immune-related cells, circuits, body state, and environment. It correctly cautions that complex functions do not reside in one isolated brain region.
+
+B. The consciousness discussion is appropriately restrained.
+The document distinguishes arousal, awareness, conscious content, access consciousness, self-consciousness, and phenomenal consciousness. It does not claim that neuroscience has a universally accepted, complete explanation of subjective experience. Definitions differ between authors, so the terms are best understood as a useful working vocabulary rather than universally standardized categories.
+
+C. The 2025 GNWT-versus-IIT study is summarized fairly.
+The Nature article reports a preregistered adversarial collaboration involving 256 participants and fMRI, MEG, and intracranial EEG. Its results supported some predictions and challenged key claims of both Global Neuronal Workspace Theory (GNWT) and Integrated Information Theory (IIT). It did not declare a winner or solve consciousness. The README’s caution is appropriate.
+Source: https://www.nature.com/articles/s41586-025-08888-1
+
+Qualification: the findings apply to the specific operationalized predictions, visual tasks, participants, and measurement conditions in the study. They should not be generalized to every formulation of either theory.
+
+D. The cell-count and cell-atlas discussion is broadly supported.
+The approximate 86-billion-neuron estimate and the rejection of a universal ten-glia-per-neuron ratio are consistent with the cited cell-count literature. The Siletti et al. human brain census is described in broadly correct terms: more than three million nuclei from roughly 100 dissections across three postmortem donors, grouped into 461 clusters and 3,313 subclusters. The document appropriately notes that statistical clusters are not automatically distinct functional cell types and that three donors cannot capture all human variation.
+Sources:
+- https://pubmed.ncbi.nlm.nih.gov/19226510/
+- https://doi.org/10.1002/cne.24040
+- https://pubmed.ncbi.nlm.nih.gov/37824663/
+- https://brain-map.org/our-research/cell-type-taxonomies/whole-human-brain-taxonomy
+
+E. The measurement-method section gives useful limitations.
+The explanations of MRI, fMRI, EEG, MEG, PET, intracranial recordings, lesion studies, stimulation, connectomics, and computational models are broadly accurate at an introductory level. The warning that a scan is not a direct “consciousness meter” is important.
+
+F. The treatment discussion is generally balanced.
+The document repeatedly states that benefits vary, side effects and access barriers matter, and a change in a biomarker is not necessarily a meaningful clinical benefit. It does not describe anti-amyloid treatments as cures. Its broad description of modest average slowing of decline in eligible people with early Alzheimer’s disease, together with ARIA risks and MRI monitoring, is directionally appropriate. The exact label, eligibility, and safety information should still be verified against current FDA labeling and clinical guidance before publication.
+Sources:
+- https://www.nia.nih.gov/health/alzheimers-treatment/how-alzheimers-disease-treated
+- https://www.nia.nih.gov/about/2026-nih-alzheimers-disease-and-related-dementias-research-progress-report-advances-and
+- https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761269s013lbl.pdf
+
+G. The research-program leadership claim is consistent with the NIH page checked.
+The NIH BRAIN Initiative page lists John Ngai as director and Andrea Beckel-Mitchener as deputy director. Leadership and program pages can change, so this is a point-in-time check, not a guarantee of future status.
+Source: https://www.nih.gov/brain/about
+
+H. The exercise section includes important safeguards.
+README(10) explicitly says that activities recruit interacting systems, practice gains may be task-specific, and better scores do not prove that a particular region changed. It now defines “well supported,” “promising / task-specific,” and “exploratory” as qualitative evidence labels. The everyday-task section also explicitly warns that region descriptions are simplified associations, not exclusive roles. These are material strengths.
+
+3. ITEMS TO CORRECT OR QUALIFY
+
+PRIORITY 1 — Add claim-level references to treatments, exercises, and everyday-task tables (important)
+
+Issue:
+The document is extensive, but Section 7’s treatment table and Sections 11–12’s exercise/task tables often make specific claims about benefits, mechanisms, or neural systems without citations next to the relevant row. A handful of broad source links cannot substantiate every detail in those sections.
+
+Recommended correction:
+- Add references to major treatment claims, adverse effects, regulatory status, and efficacy estimates.
+- Add citations for exercise claims and evidence labels, preferably systematic reviews, consensus statements, and well-designed trials.
+- Add representative citations for specific neural-system claims in the 25-task table.
+- Distinguish human evidence from animal evidence when the distinction materially affects confidence.
+- For high-impact clinical claims, include publication year, population, outcome measured, and key limitations where feasible.
+
+PRIORITY 2 — Define evidence labels as author judgments, and cite them (important)
+
+Issue:
+The current file defines its exercise labels as “well supported,” “promising / task-specific,” and “exploratory.” This is an improvement over the prior version, but the criteria remain broad and the individual labels are not consistently traceable to specific reviews or trials.
+
+Recommended correction:
+Add: “These labels are qualitative editorial summaries, not a formal GRADE assessment or systematic evidence rating.” Then cite the evidence behind each major label. Specify the outcome for which evidence is strong: for example, “well supported for improving the practiced balance skill,” rather than implying general improvement in cognition. Interleaving, mindfulness, breathing practices, and cognitive training can have effects that vary by task, population, protocol, and outcome.
+
+PRIORITY 3 — Keep brain-region mappings clearly labeled as likely participation, not selective training (important)
+
+Issue:
+The file now gives useful caveats in Sections 11.7 and 12.6. However, repeated tables linking activities to brain regions may still lead readers to think an exercise selectively trains or strengthens the named structure.
+
+Recommended correction:
+Repeat a short note directly above the major mappings: “These are systems commonly implicated in the task, not selective targets or proof of region-specific change.” Where a mechanistic claim is important, use convergent evidence (lesion, stimulation, electrophysiology, and imaging as appropriate), not imaging association alone.
+
+PRIORITY 4 — Clarify treatment status and jurisdiction (important)
+
+Issue:
+The treatment table names FDA-regulated therapies, established treatments, and experimental or emerging approaches, but it does not apply a consistent status label to each row. “Used for,” “approved for,” “under study for,” and “may help” are not interchangeable. This is especially relevant for VNS, rTMS, DBS, psychedelics, BCIs, and anti-amyloid drugs.
+
+Recommended correction:
+For each intervention, label the status as applicable:
+- FDA-approved for a specified U.S. indication;
+- established clinical use, with jurisdiction specified where relevant;
+- off-label use;
+- investigational / research-only;
+- device- and indication-specific clearance or approval.
+Add “Regulatory status checked as of [date]” and check current FDA labeling or official device pages before publication. Avoid implying that every form of a technology has the same status.
+
+PRIORITY 5 — Keep the anti-amyloid description tied to the studied population and endpoint (moderate)
+
+Issue:
+The wording “modest slowing of decline on average” is a reasonable high-level summary but can sound uniform across patients or products.
+
+Recommended correction:
+Specify that the finding applies to eligible participants with early Alzheimer’s disease in the relevant trials; individual outcomes vary. Link to the current prescribing information for each named drug, not only a general Alzheimer's page. Explain that the clinical endpoint, duration, absolute difference, eligibility criteria, ARIA risk, and MRI-monitoring requirements differ by product and can change with updated labels.
+
+PRIORITY 6 — State explicitly that the consciousness study does not test every version of either theory (moderate)
+
+Issue:
+The existing wording is already cautious, but the reader may still overgeneralize a major head-to-head study.
+
+Recommended correction:
+Retain the existing interpretation and add this sentence in Section 4.4:
+“The results concern the preregistered predictions and experimental conditions in this study; they do not test every formulation or possible prediction of either theory.”
+
+PRIORITY 7 — Qualify a few high-level simplifications (moderate)
+
+Issue:
+Several descriptions are useful shorthand but could be read too literally:
+- “The cortex holds about a fifth of all neurons” and “the cerebellum holds about four in five” are approximate estimates, not exact constants for every individual or counting method.
+- Cell-type names and counts depend on sampling, classification criteria, and the chosen molecular or functional definition.
+- “Dopamine is more closely tied to anticipation and motivation” is a helpful summary of wanting versus liking, but dopamine has diverse roles and should not be presented as a universal one-to-one rule.
+- A task’s fMRI activation does not establish that the region is necessary or sufficient for the task.
+- Descriptions of sleep-related memory consolidation and adult neurogenesis should remain qualified because effects and evidence differ by memory type, age, method, and species.
+
+Recommended correction:
+The document already includes several of these caveats. Keep the qualifiers adjacent to the relevant claim, especially in summary tables where readers may skim the surrounding prose.
+
+PRIORITY 8 — Add an explicit methodology note (moderate)
+
+Issue:
+The source/update note now describes the broad source families and identifies the research table as selective. It still does not explain how sources were chosen, whether a structured search was conducted, or how conflicting evidence was handled.
+
+Recommended correction:
+Add a short methods note specifying:
+- whether this was a narrative synthesis or a structured search;
+- the principal databases or official sources consulted, if applicable;
+- the approximate date range;
+- how primary studies, systematic reviews, consensus statements, and official guidance were prioritized;
+- that not every sentence was independently verified if that is the case.
+Do not describe the document as a systematic review unless a reproducible systematic method was actually followed.
+
+PRIORITY 9 — Keep privacy and neural-decoding claims bounded (minor to moderate)
+
+Issue:
+The privacy section correctly rejects unrestricted “mind reading,” but the capabilities of decoding systems are fast-moving and depend heavily on the device, task, training data, and cooperation of the participant.
+
+Recommended correction:
+Cite representative human studies and reviews. Distinguish invasive from noninvasive methods, externally constrained decoding from unconstrained thought, and research demonstrations from reliable real-world products. Avoid generalizing one study’s decoding performance to other people, tasks, or settings.
+
+PRIORITY 10 — Check all time-sensitive links and project details before release (minor to moderate)
+
+Issue:
+Research programs, leadership, treatment labels, device clearances, and clinical recommendations can change. A live link is not proof that every sentence linked to it is supported.
+
+Recommended correction:
+Check links and the underlying claims immediately before publication. Record a “checked on” date for clinical and leadership details. The NIH BRAIN Initiative leadership claim was consistent with the official page during this review; the 2025 Nature article and the Siletti et al. census were also verified against their primary or official records.
+
+4. ADDITIONAL TECHNICAL AND EDITORIAL NOTES
+
+A. Adult neurogenesis:
+The file correctly describes adult human hippocampal neurogenesis as debated and avoids presenting it as settled. Keep this cautious framing. Findings differ by tissue handling, markers, methods, and age; animal evidence should not be silently treated as direct proof of a large functional process in adult humans.
+
+B. Von Economo neurons:
+The file flags their proposed role in social/emotional processing as hypothesized rather than established. That caveat is important and should remain. Reports of cell loss in a disease do not by themselves prove that the cells cause the symptoms.
+
+C. Pericytes and neurovascular coupling:
+The document acknowledges debate about the degree to which pericytes directly control capillary blood flow. This is preferable to stating a settled, exclusive role.
+
+D. Consciousness and clinical assessment:
+The document correctly says that outward non-responsiveness is not definitive proof that a person has no experience and that no single test perfectly identifies consciousness. This is an important point, but clinical interpretation should remain tied to specialist assessment and current guidelines.
+
+E. The “25 everyday tasks” table:
+The entries are plausible introductory summaries, and the table explicitly warns that it is not a complete circuit diagram. The most specific mechanistic statements—such as particular regions contributing to a given task or a specific neuromodulator’s role—would benefit from citations. Some mechanisms are supported primarily by animal work or controlled laboratory tasks, which may not generalize perfectly to ordinary real-world behavior.
+
+F. Self-test and answer key:
+The self-test is useful for retrieval practice and synthesis. It should not be presented as a validated test of neuroscience expertise. A few answers summarize contested mechanisms; the answer key should preserve the same caveats as the main text rather than make a simplified account sound definitive.
+
+G. Update date:
+README(10).md states that it was last updated October 27, 2026. That matches the date of this review. If changes are made after this review, update the date and recheck time-sensitive clinical and research details.
+
+5. IMPROVEMENTS SINCE THE PREVIOUS REPORT
+
+Compared with the earlier report for README(9).md, this README(10).md:
+- defines the qualitative evidence labels used in the exercise section;
+- more explicitly cautions that exercises recruit interacting networks and that practice effects may be task-specific;
+- includes a clear “what these descriptions can and cannot tell us” subsection for the everyday-task table;
+- adds a source/update note that identifies the synthesis as selective and points readers to official sources;
+- maintains the appropriate caution around consciousness theory testing, treatment limits, and brain-decoding claims.
+
+These are real improvements. The main unresolved problem is not a broad pattern of obvious falsehoods; it is the gap between the breadth and specificity of the claims and the density of citations supporting them.
+
+6. FINAL ASSESSMENT
+
+Score: 8.6 / 10 — strong introductory reliability.
+
+Why not lower?
+The core narrative is sound; the file repeatedly acknowledges uncertainty; the consciousness section distinguishes competing theories without declaring a winner; the cell-type census and 2025 Nature study are described in broadly consistent terms; the treatment discussion avoids cure claims and notes important risks; and the exercise/task sections now more clearly warn against overinterpreting brain-region mappings.
+
+Why not 9.5 or 10?
+The document remains much broader than its references support. The evidence labels are qualitative rather than formally graded, many exercise and mechanistic claims lack row-level citations, and treatment status is not consistently separated by indication and regulatory category. Some research and clinical details are time-sensitive. A higher score would require a systematic source audit and stronger traceability, not just more caveats.
+
+Recommended use:
+Suitable as a broad introductory learning guide and study resource, provided readers treat tables as simplified models and the consciousness section as a survey of open debates. It should not be used as a standalone clinical reference, as proof of a consciousness theory, or as a substitute for specialist neuroscience texts and current clinical guidance.
+
+7. SOURCES CHECKED OR RELEVANT TO THIS REVIEW
+
+1. Cogitate Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” Nature (published April 30, 2025).
+https://www.nature.com/articles/s41586-025-08888-1
+
+2. NIH, About the BRAIN Initiative (leadership and program overview).
+https://www.nih.gov/brain/about
+
+3. Siletti et al., “Transcriptomic diversity of cell types across the adult human brain,” Science (2023).
+https://pubmed.ncbi.nlm.nih.gov/37824663/
+
+4. Allen Institute, Whole Human Brain Taxonomy.
+https://brain-map.org/our-research/cell-type-taxonomies/whole-human-brain-taxonomy
+
+5. Azevedo et al., adult human brain cell counts, Journal of Comparative Neurology (2009).
+https://pubmed.ncbi.nlm.nih.gov/19226510/
+
+6. von Bartheld et al., review of the glia-to-neuron ratio (2016).
+https://doi.org/10.1002/cne.24040
+
+7. National Institute on Aging, How Alzheimer’s Disease Is Treated.
+https://www.nia.nih.gov/health/alzheimers-treatment/how-alzheimers-disease-treated
+
+8. National Institute on Aging, 2026 NIH Alzheimer’s Disease and Related Dementias Research Progress Report.
+https://www.nia.nih.gov/about/2026-nih-alzheimers-disease-and-related-dementias-research-progress-report-advances-and
+
+9. U.S. Food and Drug Administration, LEQEMBI (lecanemab-irmb) prescribing information, 2025 label.
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761269s013lbl.pdf
+
+10. National Institute of Neurological Disorders and Stroke, Brain Basics.
+https://www.ninds.nih.gov/health-information/public-education/brain-basics
+
+11. National Institute of Mental Health, Brain Stimulation Therapies.
+https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
+
+LIMITATIONS OF THIS REVIEW
+This is a targeted reliability audit of README(10).md with selected verification against primary papers and official institutional pages. It is not a systematic review of every claim, a medical or legal opinion, or a guarantee that every link and time-sensitive statement will remain current. The score reflects usefulness and reliability for general understanding, not a validated scientific metric.
